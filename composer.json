@@ -1,0 +1,9 @@
+{
+    "name": "drupal/ezcontent_smart_article",
+    "description": "Provides Smart article content type.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "^8.7.7 || ^9 || ^10"
+    }
+}
